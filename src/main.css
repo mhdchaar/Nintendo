@@ -11,3 +11,6 @@
 
 }
 
+.icon:hover{
+    fill: red;
+}
